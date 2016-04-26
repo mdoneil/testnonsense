@@ -6,5 +6,5 @@ print (v)
 
 
 w <- ("hat")
-c(v,w)
+v;w
 
