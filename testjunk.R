@@ -5,3 +5,6 @@ v <- 7
 print (v)
 
 
+w <- ("hat")
+c(v,w)
+
